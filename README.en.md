@@ -72,4 +72,4 @@ Written in `Vue3`, `Vite`, `Typescript`.
 
 All for [MIT](https://github.com/leon-kfd/Dashboard/blob/main/LICENSE)
 
-Copyright (c) 2025 Leon.D
+Copyright (c) 2026 Leon.D
